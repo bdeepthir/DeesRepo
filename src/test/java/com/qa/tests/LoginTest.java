@@ -9,4 +9,7 @@ public class LoginTest {
 	public void set(){
 		System.out.println("Set method");
 	}
+	
+	public void reset(){
+		system.out.println("Reset Method");
 }
